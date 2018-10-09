@@ -3,6 +3,7 @@ import './style.css';
 
 import Header from "./Header";
 import GameGrid from "./GameGrid";
+import { message } from 'antd';
 
 class App extends Component {
 
@@ -26,6 +27,7 @@ class App extends Component {
   };
 
   handleGameWin = (steps) => {
+    message.success("Congratulations! You have won the game! Click 'reset' to restart.", 5);
     let record = {
       name: this.state.playerName,
       time: this.state.gameTime,
