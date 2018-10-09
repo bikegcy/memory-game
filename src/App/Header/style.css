@@ -1,0 +1,43 @@
+.Header {
+    background: lightblue;
+    margin-bottom: 24px;
+    height: 100px;
+}
+
+.Row {
+    margin: auto;
+    text-align: center;
+    height: inherit;
+}
+
+.SettingPanel {
+    margin: auto;
+    text-align: center;
+    height: inherit;
+}
+
+.StartPanel {
+    margin: auto;
+    padding-top: 5px;
+    text-align: center;
+    height: inherit;
+}
+
+.TrackPanel {
+    text-align: center;
+    height: inherit;
+}
+
+.select {
+    text-align: center;
+    margin-top: 34px;
+    width: 180px;
+}
+
+.TrackHeader {
+    margin-top: 1em;
+}
+
+.TrackTime {
+    margin-bottom: 3px;
+}
