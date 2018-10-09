@@ -1,7 +1,7 @@
 {
   "name": "memory-game",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "antd": "^3.9.2",
     "react": "^16.5.2",
