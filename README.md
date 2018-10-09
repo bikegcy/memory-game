@@ -4,6 +4,9 @@ Memory game built with React
 ## Quick Start
 
 ```bash
+# Download the peoject 
+The following commands are required in the "memory-game" folder.
+
 # Install all dependencies for the application
 npm install
 
